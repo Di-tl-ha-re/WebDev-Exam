@@ -3,7 +3,7 @@ body {
   background-color: lightgrey;
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
+  padding: 20px;
 }
 
 /* Header */
@@ -11,7 +11,7 @@ header {
   background-color: sky-blue;
   color: sky-blue;
   text-align: center;
-  padding: 1rem;
+  padding: 20rem;
 }
 
 /* Navigation */
@@ -19,7 +19,7 @@ nav {
   background-color: #333;
   display: flex;
   justify-content: center;
-  padding: 1rem;
+  padding: 10px;
 }
 
 nav a {
@@ -31,7 +31,7 @@ nav a {
 /* Main content */
 main {
   background-color: #f9f9f9;
-  padding: 2rem;
+  padding: 20px;
 }
 
 /* Footer */
@@ -39,5 +39,5 @@ footer {
   background-color: #222;
   color: sky-blue;
   text-align: center;
-  padding: 1rem;
+  padding: 10px;
 }
